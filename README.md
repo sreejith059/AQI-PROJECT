@@ -1,1 +1,1 @@
-# AQI-PROJECT
+Python project for predicting Air Quality Index (AQI) in Bangalore using AI/ML models. This repository includes data preprocessing, model training, evaluation, and visualization. It features a user-friendly Streamlit front end to interactively input data and display AQI predictions along with informative visualizations. The project aims to provide insights into air pollution levels and help forecast AQI trends for improved environmental awareness and decision making.
